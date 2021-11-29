@@ -28,5 +28,5 @@
 <br />
 <br />
 
-[mail]: archydevua@gmail.com
+[mail]: mailto:archydevua@gmail.com
 [telegram]:https://t.me/bllakkfish
