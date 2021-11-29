@@ -2,7 +2,7 @@
 
 ## I'm a Trainee/Junior React Developer
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning React
 - 🔭 I'm looking for a job
  
 ### Connect with me:
