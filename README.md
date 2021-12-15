@@ -1,9 +1,8 @@
 ### Hi there, I'm Ruslan 👋 
 
-## I'm a Trainee/Junior React Developer
+## Junior React Developer at Axels.com.ua
 
-- 🌱 I’m currently learning React
-- 🔭 I'm looking for a job
+- 🌱 I’m currently learning React/Redux
  
 ### Connect with me:
 
