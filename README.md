@@ -1,5 +1,3 @@
-### Hi there, I'm Ruslan 👋 
-
 ## Junior React Developer at Axels
 
 - 🌱 I’m currently learning React/Redux
