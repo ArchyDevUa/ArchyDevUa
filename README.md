@@ -1,4 +1,4 @@
-## Junior React Developer at Axels
+## Junior React Developer
 
 - 🌱 I’m currently learning React/Redux
  
