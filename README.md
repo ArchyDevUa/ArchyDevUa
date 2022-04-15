@@ -1,6 +1,4 @@
-## Junior React Developer
-
-- 🌱 I’m currently learning React/Redux
+## React Developer
  
 ### Connect with me:
 
